@@ -3,7 +3,7 @@ AI ML practical application 2
 Link to my gibhub URL: 
 Key Findings
  1. Of the 426836 records, after setting index on id, Total duplicate records removed: 56202.
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+ ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/1_Barplot_records_with_null_values.PNG)?raw=true)
  2. Of those amount, after dropping VIN, model, region, state and cleaning the price and odometer values, 101646 records remained. 
  3. Once One Hot Encoding of specific columns was done, the number of columns increased to 82
  4. On evaluating using PCA, with different r values, the variance continued to stay at 1 indicating that all the values are 
