@@ -1,4 +1,4 @@
-# practical_application_II
+# Practical Application II
 AI ML practical application 2
 Link to my gibhub URL: 
 Key Findings
