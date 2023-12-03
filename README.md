@@ -9,7 +9,7 @@ Key Findings
  2. Of those amount, after dropping VIN, model, region, state and cleaning the price and odometer values, 101646 records remained. 
  ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/3_Barplot_records_after_removing_unwanted_columns.png)
  3. After evaluating the records and cleaning them up, the final dataset was created. After evaluating the records within it, the following histograms were plotted to understand the type of data and it's frequency.
- ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/4a_Histogram_Price.PNG)?raw=true)
+ ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/4a_Histogram_Price.png)
  ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/4b_Histogram_year.PNG)?raw=true)
  ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/4c_Histogram_manufacturer.PNG)?raw=true)
  ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/4d_Histogram_condition.PNG)?raw=true)
