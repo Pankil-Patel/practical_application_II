@@ -7,7 +7,7 @@ Key Findings
    Of the 426836 records, after setting index on id, Total duplicate records removed: 56202. Below is the plot showing the total remaining records.
  ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/2_Barplot_records_after_duplicates.PNG)
  2. Of those amount, after dropping VIN, model, region, state and cleaning the price and odometer values, 101646 records remained. 
- ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/3_Barplot_records_after_removing_unwanted_columns.PNG)
+ ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/3_Barplot_records_after_removing_unwanted_columns.png)
  3. After evaluating the records and cleaning them up, the final dataset was created. After evaluating the records within it, the following histograms were plotted to understand the type of data and it's frequency.
  ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/4a_Histogram_Price.PNG)?raw=true)
  ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/4b_Histogram_year.PNG)?raw=true)
