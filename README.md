@@ -1,6 +1,6 @@
 # Practical Application II
 AI ML practical application 2
-Link to my gibhub URL: 
+Link to my gibhub URL: https://github.com/Pankil-Patel/practical_application_II/edit/main/prompt_II.ipynb
 Key Findings
 1. Original total records in the dataset was as shown below.
 ![alt text](https://github.com/Pankil-Patel/practical_application_II/blob/main/images/1_Barplot_records_with_null_values.PNG)
